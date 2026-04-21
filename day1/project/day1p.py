@@ -1,0 +1,1 @@
+print("The name is:" + "\n\"" + (input("Name a color: ")) + " " + (input("Name a city: ")) + "\"")
