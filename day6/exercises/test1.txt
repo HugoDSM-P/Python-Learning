@@ -1,0 +1,4 @@
+New text line
+New log in
+Jane	20/20/2000	8:30AM	Successful
+A fatal error has been registered
